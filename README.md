@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 📫 Contato
 
-[![site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=red)]()
+[![site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=red)](https://viniciussantana12.github.io/portfolio-react/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADciussantana12/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciussant11/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsantana1299@gmail.com)
